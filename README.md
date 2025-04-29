@@ -13,13 +13,13 @@ python3 crypto_crawler.py
 
 ## Comparison:
 
-* Lines of code:
+* Lines of code:  
 HTML version: 91  
 JSON version: 60  
-* Requests per minute:
+* Requests per minute:  
 HTML version: 1  
 JSON version: ~14.5  
-* Execution time (minutes):
+* Execution time (minutes):  
 HTML version: 5  
 JSON version: ~7 (should probably find a full list of prices instead of fetching one by one)  
 
